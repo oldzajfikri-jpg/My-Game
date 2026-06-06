@@ -40,6 +40,7 @@
             this.textBox1.Location = new System.Drawing.Point(272, 95);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(184, 64);
             this.textBox1.TabIndex = 0;
             this.textBox1.Text = "A zombie outbreak has started,where are you going to";

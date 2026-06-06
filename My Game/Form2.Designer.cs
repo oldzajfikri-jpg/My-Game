@@ -38,6 +38,7 @@
             this.textBox1.Location = new System.Drawing.Point(401, 187);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(138, 90);
             this.textBox1.TabIndex = 0;
             this.textBox1.Text = "They killed you because they thought you were sick";
